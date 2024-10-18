@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Ajirioghene (AJ for short)
 - 👀 I’m interested in web and mobile application development
-- 🌱 I’m currently learning Javascript and React
+- 🌱 I work with React, Angular and Typescript
+- Currently learning React Native
 - 💞️ I’m looking to collaborate on interesting and innovative projects
 - 📫 How to reach me - Search up "Ajirioghene Okpeva" on linkedin
 
